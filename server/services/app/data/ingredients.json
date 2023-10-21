@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Chicken",
+    "ItemId": 5
+  },
+  {
+    "name": "Beef",
+    "ItemId": 6
+  },
+  {
+    "name": "Shrimp",
+    "ItemId": 1
+  },
+  {
+    "name": "Cucumbers",
+    "ItemId": 2
+  },
+  {
+    "name": "Salmon",
+    "ItemId": 3
+  },
+  {
+    "name": "Broccoli",
+    "ItemId": 4
+  },
+  {
+    "name": "Avocado",
+    "ItemId": 7
+  },
+  {
+    "name": "Potatoes",
+    "ItemId": 8
+  },
+  {
+    "name": "Ground Beef",
+    "ItemId": 9
+  },
+  {
+    "name": "Tofu",
+    "ItemId": 10
+  },
+  {
+    "name": "Carrots",
+    "ItemId": 11
+  },
+  {
+    "name": "Tomatoes",
+    "ItemId": 12
+  },
+  {
+    "name": "Spinach",
+    "ItemId": 13
+  }
+]

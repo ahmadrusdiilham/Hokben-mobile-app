@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Set Menu"
+  },
+  {
+    "id": 2,
+    "name": "Main Menu"
+  },
+  {
+    "id": 3,
+    "name": "Fried Menu"
+  },
+  {
+    "id": 4,
+    "name": "Soup & Sukiyaki"
+  },
+  {
+    "id": 5,
+    "name": "Dessert"
+  },
+  {
+    "id": 6,
+    "name": "Snack"
+  },
+  {
+    "id": 7,
+    "name": "Beverages"
+  },
+  {
+    "id": 8,
+    "name": "Side Dish"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "ilham",
+    "email": "ilham@mail.com",
+    "password": "12345",
+    "role": "admin",
+    "phoneNumber": "08227813443",
+    "address": "bandung"
+  },
+  {
+    "id": 2,
+    "username": "putri",
+    "email": "putri@mail.com",
+    "password": "12345",
+    "role": "admin",
+    "phoneNumber": "08232813443",
+    "address": "jakarta"
+  }
+]

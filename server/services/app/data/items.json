@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "TEMPURA DON",
+    "description": "Shrimp",
+    "price": 47000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/27ea4abeb447bc10f9d6ad6abba8dbe3-1685669209098",
+    "UserId": 1,
+    "CategoryId": 1,
+    "MongoId": "652799bfe2b9a9258d0281ae"
+  },
+  {
+    "id": 2,
+    "name": "SPICY RAMEN REGULER",
+    "description": "Ramen with a large portion of spicy chicken broth, topped with Chasiu Chicken, Ni Tamago, Pakcoy, green onions and sliced ​​mushrooms.",
+    "price": 38000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/827ac7152a128e9f36ac8b5741ca10dc-1675167506284",
+    "UserId": 1,
+    "CategoryId": 1,
+    "MongoId": "652799bfe2b9a9258d0281ae"
+  },
+  {
+    "id": 3,
+    "name": "SPICY RAMEN LARGE",
+    "description": "Ramen with a large portion of spicy chicken broth, topped with Chasiu Chicken, Ni Tamago, Pakcoy, green onions and sliced ​​mushrooms.",
+    "price": 48000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/827ac7152a128e9f36ac8b5741ca10dc-1675167506284",
+    "UserId": 1,
+    "CategoryId": 1,
+    "MongoId": "652799bfe2b9a9258d0281ae"
+  },
+  {
+    "id": 4,
+    "name": "HOKKAIDO MISO RAMEN REGULER",
+    "description": "Ramen with Miso sauce topped with Chasiu Chicken, Tori Soboro, Ni Tamago, Pakcoy, Corn and unsalted butter.",
+    "price": 41000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/a6f407e5e2a291f7d7ece41eadb53758-1670863217303",
+    "UserId": 2,
+    "CategoryId": 1,
+    "MongoId": "6527a30054b59013afc54e00"
+  },
+  {
+    "id": 5,
+    "name": "PAKET FRIED CHICKEN 2 PCS",
+    "description": "Fried Chicken with HokBen special spices",
+    "price": 38000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/1bff6ea063fad60defdb15810805d485-1660011273334",
+    "UserId": 1,
+    "CategoryId": 1,
+    "MongoId": "652799bfe2b9a9258d0281ae"
+  },
+  {
+    "id": 6,
+    "name": "BUTTER MISO BEEF",
+    "description": "Beef seasoned with HokBen's signature Butter and Miso Sauce, topped with sesame and peanuts",
+    "price": 45000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/d89cb1dd0b8a200248e46ba4e83047b0-1694018422427",
+    "UserId": 1,
+    "CategoryId": 2,
+    "MongoId": "652799bfe2b9a9258d0281ae"
+  },
+  {
+    "id": 7,
+    "name": "TAKOYAKI MENTAI",
+    "description": "TAKOYAKI MENTAI !",
+    "price": 40000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/d89cb1dd0b8a200248e46ba4e83047b0-1694018422427",
+    "UserId": 1,
+    "CategoryId": 2,
+    "MongoId": "652799bfe2b9a9258d0281ae"
+  },
+  {
+    "id": 8,
+    "name": "HOKBEN FRIED CHICKEN 2 PCS",
+    "description": "TAKOYAKI MENTAI !",
+    "price": 42000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/2942b036c5110eca5198ea2c3d38711d-1663844793658",
+    "UserId": 1,
+    "CategoryId": 3,
+    "MongoId": "652799bfe2b9a9258d0281ae"
+  },
+  {
+    "id": 9,
+    "name": "SHRIMP DUMPLING",
+    "description": "Made from processed shrimp wrapped in wonton skin, served with leeks and HokBen's special broth.",
+    "price": 21000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/ba1d0cdcbc47faae2f1cb95fc1e3b1c5-1660024299224",
+    "UserId": 1,
+    "CategoryId": 4,
+    "MongoId": "652799bfe2b9a9258d0281ae"
+  },
+  {
+    "id": 10,
+    "name": "ICED COFFEE MILK BS 500ml",
+    "description": "ICE COFFEE 500Ml",
+    "price": 35000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/af660495cd01320ba848a9c0dd69b6da-1660031504607",
+    "UserId": 1,
+    "CategoryId": 7,
+    "MongoId": "652799bfe2b9a9258d0281ae"
+  },
+  {
+    "id": 11,
+    "name": "SHUMAY FURAI (3pcs)",
+    "description": "Deep fried processed shrimp and chicken meat wrapped in dumpling skin.",
+    "price": 26000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/d3dc8ca893a758ac20aea131b261bb04-1660030981854",
+    "UserId": 1,
+    "CategoryId": 6,
+    "MongoId": "652799bfe2b9a9258d0281ae"
+  },
+  {
+    "id": 12,
+    "name": "SOFT PUDDING RED VELVET",
+    "description": "pudding with a soft texture with the aroma and taste of Red Velvet",
+    "price": 19000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/e1c486925a86b5c56b1d76d7ea940236-1660030415118",
+    "UserId": 1,
+    "CategoryId": 5,
+    "MongoId": "652799bfe2b9a9258d0281ae"
+  },
+  {
+    "id": 13,
+    "name": "SALAD PORSIAN NEW",
+    "description": "pickles, shaved cabbage topped with HokBen's special mayonnaise inside cup.",
+    "price": 17000,
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/d4e54aa120b07a697ad2c2482a098d05-1660031296824",
+    "UserId": 2,
+    "CategoryId": 8,
+    "MongoId": "6527a30054b59013afc54e00"
+  }
+]
