@@ -7,8 +7,6 @@ WORKDIR /usr/local/app
 # untuk set ENV dalam aplikasi kita
 ENV PORT=4002
 
-# NODE_ENV=production
-# DATABASE_URL=postgresql://postgres:NLJeHSo92fCaAHmz@db.nudnvpkoaocovobvfbyu.supabase.co:5432/postgres
 # copy deps yang ada di apps ke WORKDIR
 COPY package.json package-lock.json /usr/local/app/
 
